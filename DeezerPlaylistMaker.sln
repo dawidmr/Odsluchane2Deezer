@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeezerPlaylistMaker", "DeezerPlaylistMaker\DeezerPlaylistMaker.csproj", "{02C71B56-620A-4745-AD2A-1BBFDE6E16E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C71B56-620A-4745-AD2A-1BBFDE6E16E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C71B56-620A-4745-AD2A-1BBFDE6E16E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C71B56-620A-4745-AD2A-1BBFDE6E16E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C71B56-620A-4745-AD2A-1BBFDE6E16E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F506AB7-3115-41B7-8A4C-A96B3D453D5E}
+	EndGlobalSection
+EndGlobal
